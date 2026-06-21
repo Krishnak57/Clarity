@@ -1,0 +1,24 @@
+# ── SECRETS — never commit these ──────────────────────────────
+.env
+.env.*
+*.key
+secrets.toml
+.streamlit/secrets.toml      # Streamlit stores API keys here by default
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ── OS / editor junk ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Local data you may not want public (optional) ─────────────
+# Uncomment if you keep scratch/work-in-progress data out of the repo
+# data/scratch/

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "bank-01",
+    "journey": "A_bank_account",
+    "jurisdiction": "US",
+    "source_name": "Chase — Opening a Bank Account as an International Student",
+    "source_url": "https://www.chase.com/personal/banking/education/basics/bank-accounts-for-international-students",
+    "last_verified_date": "2026-06-20",
+    "text": "International students may not need a U.S. phone number or Social Security number (SSN) to open a checking account. Some banks ask for a tax identification number, which can be an SSN or an Individual Taxpayer Identification Number (ITIN) from the IRS. If you do not have an SSN or ITIN, some banks will accept a passport number, a consular identification card, or another government-issued ID number instead. Acceptable forms of identification an international student may submit when opening a checking account include a passport, a Matricula Consular card, or an Employment Authorization card. Document requirements vary by bank, so confirm the current list with the specific bank before you go."
+  },
+  {
+    "id": "bank-02",
+    "journey": "A_bank_account",
+    "jurisdiction": "US",
+    "source_name": "Bank of America — How to Open a Bank Account as an International Student",
+    "source_url": "https://info.bankofamerica.com/en/international/student-bank-account",
+    "last_verified_date": "2026-06-20",
+    "text": "To open a checking account at Bank of America as an international student you generally provide a primary photo ID and a secondary ID. Primary ID can be a foreign passport (with or without a passport visa), a U.S. nonimmigrant visa, a Border Crossing Card (DSP-150), or a Mexican, Guatemalan, Dominican, or Colombian consular ID. Secondary ID options include a foreign driver's license, a U.S. driver's license, a U.S. student ID validated for the current term, or a debit or major credit card with a Visa or Mastercard logo. You will also need documents showing proof of both a foreign and a U.S. address, such as a utility bill, a rental agreement, or a letter proving you are enrolled in university. In general, international students should plan to open their accounts in person."
+  },
+  {
+    "id": "bank-03",
+    "journey": "A_bank_account",
+    "jurisdiction": "US",
+    "source_name": "Study in the States (DHS) — Individual Taxpayer Identification Number (ITIN)",
+    "source_url": "https://studyinthestates.dhs.gov/students/work/individual-taxpayer-identification-number-itin",
+    "last_verified_date": "2026-06-20",
+    "text": "If an F-1 student is not eligible for a Social Security Number but receives non-wage income in the United States (for example scholarships, grants, interest, or winnings), they must apply for an Individual Taxpayer Identification Number (ITIN). To apply for an ITIN, an F student submits a Form W-7, a certification letter, copies of identity and foreign-status documentation, and a copy of the Form I-20. An ITIN is for tax purposes and is one of the tax identification numbers a bank may accept if you do not have an SSN."
+  },
+  {
+    "id": "ssn-01",
+    "journey": "B_ssn_dl",
+    "jurisdiction": "US",
+    "source_name": "Social Security Administration — International Students and Social Security Numbers (Pub. 05-10181)",
+    "source_url": "https://www.ssa.gov/pubs/EN-05-10181.pdf",
+    "last_verified_date": "2026-06-20",
+    "text": "For an F-1 student's Social Security Number application to be approved, the student must give the Social Security Administration evidence of age, identity, lawful immigration status, full-time enrollment, and authorization to work. In other words, F-1 students are generally only eligible for an SSN once they have authorized employment. To prove authorization to work, an F-1 student may provide a DHS Employment Authorization Document, a Form I-20 with a designated school official's signed authorization for curricular practical training (CPT), or documentation from the school or on-campus employer that the student is authorized to work on campus. If you are eligible to work on campus, you must provide a letter from your designated school official that identifies your employer and the type of work, plus evidence of that employment such as a recent pay slip or an employer letter."
+  },
+  {
+    "id": "ssn-02",
+    "journey": "B_ssn_dl",
+    "jurisdiction": "US",
+    "source_name": "Study in the States (DHS) — Obtaining a Social Security Number",
+    "source_url": "https://studyinthestates.dhs.gov/students/work/obtaining-a-social-security-number",
+    "last_verified_date": "2026-06-20",
+    "text": "International students need a Social Security Number only to work in the United States. Before applying, you must talk with your designated school official (DSO) to make sure you are eligible for employment. To be eligible to apply you must have an active student record in the Student and Exchange Visitor Information System (SEVIS) and you should wait at least 10 days after arriving in the United States. To apply for an SSN you must bring your signed Form I-20 (and any older signed versions issued to you), your valid visa, and your passport. You apply at a Social Security office."
+  },
+  {
+    "id": "dl-01",
+    "journey": "B_ssn_dl",
+    "jurisdiction": "Texas",
+    "source_name": "Texas Department of Public Safety — U.S. Citizenship or Lawful Presence Requirement",
+    "source_url": "https://www.dps.texas.gov/section/driver-license/us-citizenship-or-lawful-presence-requirement",
+    "last_verified_date": "2026-06-20",
+    "text": "To get a Texas driver license or ID card as a non-U.S. citizen, you must provide proof of lawful presence. At the driver license office, the specialist verifies your period of lawful presence with the U.S. Department of Homeland Security (DHS). A driver license or ID card cannot be issued until that period of lawful presence is verified by DHS. For a non-citizen, the Texas driver license is issued as a limited-term license that matches your authorized period of stay, and it must be renewed in person with documents that again verify lawful presence."
+  },
+  {
+    "id": "dl-02",
+    "journey": "B_ssn_dl",
+    "jurisdiction": "Texas",
+    "source_name": "Texas Department of Public Safety — Apply for a Texas Driver License",
+    "source_url": "https://www.dps.texas.gov/section/driver-license/apply-texas-driver-license",
+    "last_verified_date": "2026-06-20",
+    "text": "The Texas Department of Public Safety offers in-office driver license and identification card services by appointment. To apply for a Texas driver license you visit a driver license office and present documents proving your identity, your lawful presence in the United States, your Texas residency, and (for a driver license) you complete the required vision, knowledge, and driving tests. Bring your immigration documents so the office can verify your lawful presence with DHS. Because exact accepted documents can change, confirm the current checklist on the DPS website before your appointment."
+  },
+  {
+    "id": "benefits-01",
+    "journey": "C_benefits",
+    "jurisdiction": "US",
+    "source_name": "Federal Student Aid (studentaid.gov) — Eligibility for Non-U.S. Citizens",
+    "source_url": "https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens",
+    "last_verified_date": "2026-06-20",
+    "text": "Most foreign citizens are not eligible for federal student aid from the U.S. Department of Education. If you have an F-1 or F-2 student visa, you are not an eligible noncitizen for federal student aid, and on the FAFSA form you would select that you are not a citizen or eligible noncitizen. This means F-1 students generally cannot receive federal grants or federal student loans. You may still be able to look into aid from your state or from the university you attend."
+  },
+  {
+    "id": "benefits-02",
+    "journey": "C_benefits",
+    "jurisdiction": "US",
+    "source_name": "USDA Food and Nutrition Service — SNAP Guidance on Non-Citizen Eligibility",
+    "source_url": "https://www.fns.usda.gov/snap/eligibility/non-citizen-guidance",
+    "last_verified_date": "2026-06-20",
+    "text": "SNAP (food stamp) eligibility is limited by federal law to U.S. citizens and certain lawfully present non-citizens who meet specific conditions, such as having lived in the United States for at least 5 years, receiving disability-related assistance, or being a child under 18. SNAP has never been available to undocumented non-citizens. Temporary nonimmigrants such as F-1 students are not in these qualifying categories, so they generally do not qualify for SNAP. Non-citizen eligibility rules are detailed and were affected by 2025 federal legislation, so confirm your specific situation before applying."
+  },
+  {
+    "id": "benefits-03",
+    "journey": "C_benefits",
+    "jurisdiction": "US",
+    "source_name": "USDA Food and Nutrition Service — Joint Letter on Public Charge",
+    "source_url": "https://www.fns.usda.gov/snap/joint-letter-public-charge",
+    "last_verified_date": "2026-06-20",
+    "text": "The U.S. Department of Homeland Security has confirmed that applying for or receiving SNAP benefits does not make a person a 'public charge' and is not considered in a public charge determination. This matters because worries about a public charge finding can discourage people from seeking food assistance. Even so, because immigration status is high-stakes, an F-1 student should confirm with an immigration advisor before applying for any public benefit."
+  },
+  {
+    "id": "health-01",
+    "journey": "C_benefits",
+    "jurisdiction": "UNT",
+    "source_name": "UNT International Affairs — International Student Health Insurance",
+    "source_url": "https://international.unt.edu/international-students/newly-admitted-international-students/international-student-health-insurance.html",
+    "last_verified_date": "2026-06-20",
+    "text": "University of North Texas international students with F-1 or J-1 status must carry UNT-approved student health insurance throughout their time at UNT, and must provide proof of adequate coverage each time they register for classes. All F-1 and J-1 international students are automatically enrolled in the UNT Student Health Insurance plan and are billed for it in the Fall and Spring semesters as part of UNT tuition and fees. The plan can be waived only under limited circumstances, such as being enrolled in a U.S. employer-provided health plan or being sponsored by a recognized foreign government or organization."
+  },
+  {
+    "id": "campus-01",
+    "journey": "C_benefits",
+    "jurisdiction": "UNT",
+    "source_name": "UNT Student Affairs — Food Pantry",
+    "source_url": "https://studentaffairs.unt.edu/desresources/programs/food-pantry/about-us/index.html",
+    "last_verified_date": "2026-06-20",
+    "text": "The UNT Food Pantry (presented by Kroger) provides free food to currently enrolled UNT students, regardless of immigration status or federal benefit eligibility. It is located in the Diamond Eagles Student Resource Center at the back of Crumley Hall, through the Maple Street entrance. The pantry's open hours vary by semester, and it closes on the first Friday of each month for the Monthly Mobile Food Pantry, so check the official page for the current schedule. It is available only to students currently enrolled at the University of North Texas."
+  },
+  {
+    "id": "campus-02",
+    "journey": "C_benefits",
+    "jurisdiction": "UNT",
+    "source_name": "UNT Student Money Management Center — Eagle Support Program (Emergency Aid)",
+    "source_url": "https://studentaffairs.unt.edu/student-money-management-center/programs-and-services/emergency-aid/emergency-support",
+    "last_verified_date": "2026-06-20",
+    "text": "The Eagle Support Program, run by UNT's Student Money Management Center on the Denton campus, offers short-term emergency loans to currently enrolled students facing an unexpected, time-sensitive financial hardship that threatens their enrollment. The level of need must be 1,000 dollars or less, and the program can assist with emergency expenses only one time per academic year. Applicants must be at least 18 (under 18 needs a parent co-signer), must have accepted all student-specific financial aid offered, and cannot use the funds for current tuition, fees, housing, or meal-plan charges. Because it is a short-term loan, it must be repaid. This campus support is separate from federal benefits, so it can be available to international students who do not qualify for federal programs."
+  }
+]

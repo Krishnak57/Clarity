@@ -1,0 +1,34 @@
+[
+  {
+    "topic": "immigration status / visa / SSN eligibility",
+    "journeys": ["B_ssn_dl", "C_benefits"],
+    "contact_name": "UNT International Student & Scholar Services (ISSS)",
+    "contact_type": "university office",
+    "how_to_reach": "Phone (940) 565-2195 · email InternationalAdvising@unt.edu · Marquis Hall, Room 110, 1155 Union Circle #311067, Denton, TX 76203 · General office hours Mon-Fri 8am-5pm; immigration advising is by appointment or scheduled drop-in/phone hours (see the ISSS site). Source: https://international.unt.edu/international-students/index.html (verified 2026-06-20)",
+    "when_to_use": "Anything affecting F-1 status, work authorization, SSN eligibility, or whether a benefit is safe for your status."
+  },
+  {
+    "topic": "legal questions / rights / immigration legal advice",
+    "journeys": [],
+    "contact_name": "UNT Student Legal Services",
+    "contact_type": "legal aid",
+    "how_to_reach": "Free legal consultations for enrolled UNT students from State Bar of Texas attorneys · email StudentLegal@unt.edu · University Union, Suite 372, Denton, TX. Source: https://studentaffairs.unt.edu/dean-of-students/programs-and-services/student-legal-services/index.html (verified 2026-06-20)",
+    "when_to_use": "Anything that needs legal judgment, including immigration legal questions. For low-income civil legal aid in the region, Legal Aid of NorthWest Texas (https://texaslawhelp.org/directory/lanwt) also serves Denton County."
+  },
+  {
+    "topic": "banking specifics",
+    "journeys": ["A_bank_account"],
+    "contact_name": "Your chosen bank's branch / new-accounts line",
+    "contact_type": "official institution",
+    "how_to_reach": "Confirm the current document list on the bank's own international-students page before you go, e.g. Chase (https://www.chase.com/personal/banking/education/basics/bank-accounts-for-international-students) or Bank of America (https://info.bankofamerica.com/en/international/student-bank-account), or call/visit a local branch. (verified 2026-06-20)",
+    "when_to_use": "Confirming current document requirements before opening an account in person."
+  },
+  {
+    "topic": "campus support / emergency funds / food",
+    "journeys": ["C_benefits"],
+    "contact_name": "UNT Dean of Students Office",
+    "contact_type": "university office",
+    "how_to_reach": "Phone 940-565-2648 · email deanofstudents@unt.edu · University Union, Suite 409, Denton, TX. Source: https://deanofstudents.unt.edu/resources/food-pantry (verified 2026-06-20)",
+    "when_to_use": "Applying for hardship/emergency support, the food pantry, or other campus resources."
+  }
+]
