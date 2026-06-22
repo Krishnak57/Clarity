@@ -53,29 +53,6 @@ Intake --> Retrieval (local embeddings + threshold gate) --> Grounded Generation
 
 All tools and services used are free. No paid APIs. No credit card required.
 
-## Getting Started
-
-```bash
-cd clarity-app
-pip install -r requirements.txt
-```
-
-Create a `.env` file in the `clarity-app` directory with your Groq API key:
-
-```
-GROQ_API_KEY=gsk_your_key_here
-```
-
-Get a free key at [console.groq.com](https://console.groq.com) (no credit card needed).
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
-The first run downloads the local embedding model (all-MiniLM-L6-v2, approximately 90 MB) once.
-
 ## Data Sources
 
 All data is publicly available and officially published. No scraping. No synthetic data. Every passage was manually verified.
